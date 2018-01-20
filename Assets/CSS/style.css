@@ -244,6 +244,7 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
+  max-height: 742px;
 }
 
 @media (max-width: 719px) {
@@ -258,9 +259,6 @@ a {
   margin-bottom: -38px;
 }
 
-.whySection {
-  margin-bottom: 80px;
-}
 
 @media (max-width: 767px) {
   .whyMargin {
@@ -485,6 +483,20 @@ a {
   line-height: 1.5;
   margin: 0 0 40px;
 
+}
+
+.sectionBody8 {
+  color: black;
+  font-size: 20px;
+  font-weight: 300;
+  font-style: 300;
+  line-height: 1.5;
+  margin: 0 0 40px;
+
+}
+
+.maginSubText {
+  margin-bottom: 40px;
 }
 
 section {
@@ -1252,8 +1264,8 @@ body.modal-open {
 }*/
 
 .aboutHeader {
-  font-size: 23.88px;
-  font-weight: bold;
+  font-size: 30px;
+  font-weight: 300;
 }
 
 .mdlCardButton {
@@ -1359,8 +1371,4 @@ a:focus, a:hover {
 .imageNews {
   width: 100% !important;
   max-width: 512px;
-}
-
-#whyBitcoin {
-  padding-bottom: 0!important;
 }
