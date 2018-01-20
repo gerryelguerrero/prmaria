@@ -484,7 +484,7 @@ a {
   font-style: 300;
   line-height: 1.5;
   margin: 0 0 40px;
-  max-width: 1000px;
+
 }
 
 section {
@@ -944,7 +944,6 @@ margin-bottom: 20px;
 
 .sectionWidth7 {
   width: 100%;
-  max-width: 1000px;
   margin-bottom: 0px;
 }
 
@@ -1360,4 +1359,8 @@ a:focus, a:hover {
 .imageNews {
   width: 100% !important;
   max-width: 512px;
+}
+
+#whyBitcoin {
+  padding-bottom: 0!important;
 }
