@@ -11,7 +11,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #2979FF;
+  background-color: #B71C1C;
 }
 
 .rowMargin {
@@ -44,7 +44,7 @@ body {
 @media screen and (max-width: 1024px) {
   .mdl-layout__header .mdl-layout__drawer-button {
     margin: 4px;
-    background-color: #2979FF;
+    background-color: #B71C1C;
   }
 }
 
@@ -88,7 +88,7 @@ a {
 }*/
 
 .mdl-layout__drawer>.mdl-layout__title, .mdl-layout__drawer>.mdl-layout-title {
-  background-color: #2979FF;
+  background-color: #B71C1C;
   height: 151px;
   display: flex;
   align-items: flex-end;
@@ -134,10 +134,10 @@ a {
   width: 100vw;
   height: 84vh;
   padding: 0;
-  /*background-image: url("../IMG/header.jpg");*/
-  /*background-size: cover;
+  background-image: url("../IMG/puerto-rico-maria.jpg");
+  background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;*/
+  background-position: center;
   max-height: 742px;
   background-color: black;
 }
@@ -280,14 +280,10 @@ a {
   align-items: center;
 }
 
-.containerBody {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  text-align: center;
-  height: 100%;
-  align-items: center;
+.containerBodyInitiatives {
+  max-width: 1000px;
 }
+
 
 .containerBody1 {
   width: 100%;
@@ -346,17 +342,17 @@ a {
 }
 
 .socialText:active, .socialText:hover {
-  color: #4CAF50 !important;
+  color: #2979FF  !important;
 }
 
 .frontColor {
-  background-image: linear-gradient( to right, rgba(41, 121, 255, 0.7), rgba(69, 173, 86, 0.7));
+  background-image: linear-gradient( to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
   width: 100%;
   height: 100%;
 }
 
 .frontColor2 {
-  background-image: linear-gradient( to right, rgba(41, 121, 255, 0.7), rgba(69, 173, 86, 0.7));
+  background-image: linear-gradient( to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
   width: 100%;
   height: 100%;
 }
@@ -500,7 +496,7 @@ a {
 }
 
 .maginSubText {
-  margin-bottom: 40px;
+  margin-bottom: 64px;
 }
 
 section {
@@ -758,7 +754,7 @@ footer p {
 }
 
 .colorText {
-  color: #4CAF50;
+  color: #2979FF;
 }
 
 .section-title h2 {
@@ -977,7 +973,7 @@ margin-bottom: 20px;
 }
 
 .mdl-button-raised:hover, .mdl-button-raised:active, .mdl-button-raised:visited {
-  background-color: #66BB6A !important;
+  background-color: #448AFF !important;
 }
 
 .home2 {
@@ -1036,11 +1032,11 @@ iframe {}
 
 .mdl-button--raised.mdl-button--colored {
   color: rgb(255, 255, 255);
-  background-color: #4CAF50;
+  background-color: #2979FF;
 }
 
 .mdl-button {
-  background-color: #4CAF50;
+  background-color: #2979FF;
   border: none;
   border-radius: 2px;
   color: white;
@@ -1067,7 +1063,7 @@ iframe {}
 }
 
 .headerHighlight {
-  color: #4CAF50;
+  color: #2979FF;
 }
 
 .mdl-dialog {
@@ -1228,7 +1224,7 @@ iframe {}
   font-size: 17px;
   font-weight: 300;
   line-height: 1.5;
-  color: #333;
+  color: white;
   text-align: left;
 }
 
@@ -1357,7 +1353,7 @@ a:focus, a:hover {
 }
 
 .mdl-button-raised:visited {
-  color: #4CAF50;
+  color: #2979FF;
 }
 
 .socialIcons {
