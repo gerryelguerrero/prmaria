@@ -336,8 +336,8 @@ a {
 }
 
 .section1 {
-  padding-top: 30px !important;
-  padding-bottom: 48px !important;
+  padding-top: 80px !important;
+  padding-bottom: 78px !important;
   /*background-image: url("../IMG/_DSC1242_web.jpg");*/
   background-size: cover;
   background-repeat: no-repeat;
@@ -364,8 +364,8 @@ a {
 }
 
 .paddingSection {
-  padding-top: 45px;
-  padding-bottom: 48px;
+  padding-top: 80px;
+  padding-bottom: 78px;
   height: 100%;
   width: 100%;
   justify-content: center;
@@ -488,8 +488,8 @@ a {
 }
 
 section {
-  padding-top: 55px;
-  padding-bottom: 48px;
+  padding-top: 80px;
+  padding-bottom: 78px;
 }
 
 .color2 {
