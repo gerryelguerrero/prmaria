@@ -1284,6 +1284,7 @@ body.modal-open {
 
 .mainButton {
   color: #2979FF !important;
+  background: none;
 }
 
 .hightlight {
