@@ -424,9 +424,13 @@ a {
   }
 }
 
+.finalModule {
+  max-width: 440px;
+}
+
 @media (min-width: 1539px) {
   .sectionHeader4 {
-    font-size: 116px;
+    font-size: 72px;
   }
 }
 
@@ -438,7 +442,7 @@ a {
 
 @media (min-width: 1539px) {
   .sectionHeader5 {
-    font-size: 77px;
+    font-size: 40px;
   }
 }
 
@@ -628,6 +632,7 @@ section {
   justify-content: center;
   align-items: center;
   height: 100%;
+  margin-bottom: 40px;
 }
 
 @media(max-width:1199px) {
