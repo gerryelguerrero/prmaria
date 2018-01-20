@@ -10,3 +10,8 @@ function writeUserData(userId, name, email, imageUrl) {
       profile_picture : imageUrl
     });
 }
+
+
+function refreshUI() {
+    var cardUI = $("#")
+}
