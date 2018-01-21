@@ -35,6 +35,8 @@ body {
 
 .whyItems {
   text-align: center!important;
+  color: #2979FF !important;
+    font-size: 34px !important;
 }
 
 .socialImage:active, .socialImage:hover {
@@ -477,7 +479,7 @@ a {
 
 .sectionBody2 {
   color: white;
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 300;
   font-style: 300;
   line-height: 1.5;
@@ -487,7 +489,7 @@ a {
 
 .sectionBody8 {
   color: black;
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 300;
   font-style: 300;
   line-height: 1.5;
