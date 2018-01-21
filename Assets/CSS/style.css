@@ -35,7 +35,7 @@ body {
 
 .whyItems {
   text-align: center!important;
-  color: #2979FF !important;
+  color: black !important;
     font-size: 34px !important;
 }
 
@@ -666,6 +666,16 @@ section {
 
 .dark-bg .mz-module-about h3 {
   color: #FFFFFF;
+
+}
+
+.mz-module-about {
+  color: #f5f5f5;
+  padding-top: 20px
+}
+
+.mz-module-about:hover {
+    background: rgba(0,0,0,0.1)
 }
 
 .dark-bg .section-text h3 {
